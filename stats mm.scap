@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<ScappleDocument ID="944D1F3E-8D8A-4B95-B282-08860C834C45" Version="1.1">
+   <Notes>
+      <Note Width="80.7373" FontSize="12" ID="0" Position="75.0,54.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>main stats</String>
+         <ConnectedNoteIDs>1-4, 13, 17</ConnectedNoteIDs>
+      </Note>
+      <Note Width="29.7729" FontSize="12" ID="1" Position="60.2,18.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>HP</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note Width="28.8818" FontSize="12" ID="2" Position="100.8,19.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>PP</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note Width="44.9829" FontSize="12" ID="3" Position="137.5,17.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Cash</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note Width="48.5596" FontSize="12" ID="4" Position="225.0,53.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>ability</String>
+         <ConnectedNoteIDs>0, 5-12</ConnectedNoteIDs>
+      </Note>
+      <Note Width="25.2808" FontSize="12" ID="5" Position="180.5,70.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>str</String>
+         <ConnectedNoteIDs>4</ConnectedNoteIDs>
+      </Note>
+      <Note Width="24.4141" FontSize="12" ID="6" Position="222.7,95.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>int</String>
+         <ConnectedNoteIDs>4</ConnectedNoteIDs>
+      </Note>
+      <Note Width="28.894" FontSize="12" ID="7" Position="193.8,88.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>agi</String>
+         <ConnectedNoteIDs>4</ConnectedNoteIDs>
+      </Note>
+      <Note Width="30.6641" FontSize="12" ID="8" Position="246.9,101.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>per</String>
+         <ConnectedNoteIDs>4</ConnectedNoteIDs>
+      </Note>
+      <Note Width="23.5107" FontSize="12" ID="9" Position="310.9,95.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>stl</String>
+         <ConnectedNoteIDs>4</ConnectedNoteIDs>
+      </Note>
+      <Note Width="33.3618" FontSize="12" ID="10" Position="328.1,81.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>spd</String>
+         <ConnectedNoteIDs>4</ConnectedNoteIDs>
+      </Note>
+      <Note Width="33.3618" FontSize="12" ID="11" Position="275.0,100.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>cha</String>
+         <ConnectedNoteIDs>4</ConnectedNoteIDs>
+      </Note>
+      <Note Width="28.8818" FontSize="12" ID="12" Position="332.8,57.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>cnt</String>
+         <ConnectedNoteIDs>4</ConnectedNoteIDs>
+      </Note>
+      <Note Width="85.2173" FontSize="12" ID="13" Position="185.2,162.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>personality</String>
+         <ConnectedNoteIDs>0, 14-16, 32-35</ConnectedNoteIDs>
+      </Note>
+      <Note Width="55.6885" FontSize="12" ID="14" Position="308.6,140.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>morals</String>
+         <ConnectedNoteIDs>13</ConnectedNoteIDs>
+      </Note>
+      <Note Width="67.3584" FontSize="12" ID="15" Position="315.6,167.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>lenience</String>
+         <ConnectedNoteIDs>13</ConnectedNoteIDs>
+      </Note>
+      <Note Width="43.1885" FontSize="12" ID="16" Position="202.3,217.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>fame</String>
+         <ConnectedNoteIDs>13</ConnectedNoteIDs>
+      </Note>
+      <Note Width="97.7417" FontSize="12" ID="17" Position="40.6,200.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>relationships</String>
+         <ConnectedNoteIDs>0, 18-19</ConnectedNoteIDs>
+      </Note>
+      <Note Width="61.084" FontSize="12" ID="18" Position="203.9,320.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>general</String>
+         <ConnectedNoteIDs>17, 20-26</ConnectedNoteIDs>
+      </Note>
+      <Note Width="69.1284" FontSize="12" ID="19" Position="32.8,284.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>personal</String>
+         <ConnectedNoteIDs>17, 27-31</ConnectedNoteIDs>
+      </Note>
+      <Note Width="53.9307" FontSize="12" ID="20" Position="240.6,273.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>celebs</String>
+         <ConnectedNoteIDs>18</ConnectedNoteIDs>
+      </Note>
+      <Note Width="49.4629" FontSize="12" ID="21" Position="273.4,293.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>police</String>
+         <ConnectedNoteIDs>18</ConnectedNoteIDs>
+      </Note>
+      <Note Width="70.8862" FontSize="12" ID="22" Position="290.6,312.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>criminals</String>
+         <ConnectedNoteIDs>18</ConnectedNoteIDs>
+      </Note>
+      <Note Width="98.6328" FontSize="12" ID="23" Position="297.7,344.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>hero group 1</String>
+         <ConnectedNoteIDs>18</ConnectedNoteIDs>
+      </Note>
+      <Note Width="98.6328" FontSize="12" ID="24" Position="284.4,380.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>hero group 2</String>
+         <ConnectedNoteIDs>18</ConnectedNoteIDs>
+      </Note>
+      <Note Width="106.689" FontSize="12" ID="25" Position="240.6,405.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>villain group 1</String>
+         <ConnectedNoteIDs>18</ConnectedNoteIDs>
+      </Note>
+      <Note Width="106.689" FontSize="12" ID="26" Position="179.7,428.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>villain group 2</String>
+         <ConnectedNoteIDs>18</ConnectedNoteIDs>
+      </Note>
+      <Note Width="91.4673" FontSize="12" ID="27" Position="20.3,376.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>arch enemy</String>
+         <ConnectedNoteIDs>19</ConnectedNoteIDs>
+      </Note>
+      <Note Width="49.4385" FontSize="12" ID="28" Position="137.5,306.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>family</String>
+         <ConnectedNoteIDs>19</ConnectedNoteIDs>
+      </Note>
+      <Note Width="61.0718" FontSize="12" ID="29" Position="111.7,330.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>friend 1</String>
+         <ConnectedNoteIDs>19</ConnectedNoteIDs>
+      </Note>
+      <Note Width="61.0718" FontSize="12" ID="30" Position="75.0,352.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>friend 2</String>
+         <ConnectedNoteIDs>19</ConnectedNoteIDs>
+      </Note>
+      <Note Width="42.2852" FontSize="12" ID="31" Position="4.7,343.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>lover</String>
+         <ConnectedNoteIDs>19</ConnectedNoteIDs>
+      </Note>
+      <Note Width="59.2896" FontSize="12" ID="32" Position="275.8,205.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>egoism</String>
+         <ConnectedNoteIDs>13</ConnectedNoteIDs>
+      </Note>
+      <Note Width="60.1929" FontSize="12" ID="33" Position="307.0,188.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>attitude</String>
+         <ConnectedNoteIDs>13</ConnectedNoteIDs>
+      </Note>
+      <Note Width="61.0718" FontSize="12" ID="34" Position="250.0,230.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>hostility</String>
+         <ConnectedNoteIDs>13</ConnectedNoteIDs>
+      </Note>
+      <Note Width="40.5029" FontSize="12" ID="35" Position="168.0,198.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>style</String>
+         <ConnectedNoteIDs>13</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <BackgroundShapes/>
+   <NoteStyles>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Blue Bubble" ID="1D37316F-E11B-4CE0-88A5-EAA0C5F30565" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.485893 0.568933 0.756207</BorderColor>
+         <FillColor>0.844068 0.869596 0.923064</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Yellow Bubble" ID="3781FA36-B88A-4F11-9C18-CF8AF8E00E68" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.769436 0.762219 0.390143</BorderColor>
+         <FillColor>0.912963 0.894118 0.644541</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Green Bubble" ID="3E171E2D-08B3-4641-8C5D-AC7E144A9CF2" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.399100 0.583322 0.354864</BorderColor>
+         <FillColor>0.808835 0.872419 0.801343</FillColor>
+      </Style>
+      <Style AffectFontStyle="Yes" AffectAlignment="Yes" Name="Title Text" ID="B98E39BD-ED0F-4571-8637-B668FF1E333A" AffectTextColor="No" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>12.0</FontSize>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Red Text" ID="F43A06C4-CB01-4E73-8950-E5EEC43E261B" AffectTextColor="Yes" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <TextColor>1.0 0.0 0.0</TextColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Pink Bubble" ID="A39526A7-D5A9-40F4-826C-4A99250DD112" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.690303 0.407263 0.550912</BorderColor>
+         <FillColor>0.898329 0.817472 0.865339</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Brown Bubble" ID="C075241D-D7E2-48E2-B9D4-9461D9DC3BD0" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.269490 0.164034 0.186694</BorderColor>
+         <FillColor>0.934157 0.888319 0.785290</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>1.0 0.988006 0.945006</BackgroundColor>
+      <DefaultFont>Helvetica</DefaultFont>
+      <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+   </UISettings>
+   <PrintSettings VerticalPagination="Auto" HorizontalPagination="Clip" Orientation="Portrait" RightMargin="12.000000" BottomMargin="12.000000" HorizontallyCentered="Yes" ScaleFactor="1.000000" PagesAcross="1" PaperType="na-letter" PagesDown="1" TopMargin="12.000000" Collates="Yes" PaperSize="-1.000000,-1.000000" LeftMargin="12.000000" VerticallyCentered="Yes"/>
+</ScappleDocument>

@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<ScappleDocument ID="3F378911-9BE8-43D8-B835-0B9A9328C986" Version="1.1">
+   <Notes>
+      <Note Width="44.0796" FontSize="12" ID="0" Position="373.5,217.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>earth</String>
+         <ConnectedNoteIDs>5</ConnectedNoteIDs>
+      </Note>
+      <Note Width="106.702" FontSize="12" ID="1" Position="269.6,301.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>shape shifting</String>
+         <ConnectedNoteIDs>9</ConnectedNoteIDs>
+      </Note>
+      <Note Width="110.242" FontSize="12" ID="2" Position="149.3,323.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>super strength</String>
+         <ConnectedNoteIDs>9</ConnectedNoteIDs>
+      </Note>
+      <Note Width="25.293" FontSize="12" ID="3" Position="424.3,179.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>air</String>
+         <ConnectedNoteIDs>5</ConnectedNoteIDs>
+      </Note>
+      <Note Width="29.7607" FontSize="12" ID="4" Position="475.1,161.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>fire</String>
+         <ConnectedNoteIDs>5</ConnectedNoteIDs>
+      </Note>
+      <Note Width="77.1851" FontSize="12" ID="5" Position="478.2,328.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>elemental</String>
+         <ConnectedNoteIDs>0, 3-4, 6, 8, 11</ConnectedNoteIDs>
+      </Note>
+      <Note Width="46.7529" FontSize="12" ID="6" Position="526.7,181.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>water</String>
+         <ConnectedNoteIDs>5</ConnectedNoteIDs>
+      </Note>
+      <Note Width="103.101" FontSize="12" ID="7" Position="125.1,374.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>super senses</String>
+         <ConnectedNoteIDs>9</ConnectedNoteIDs>
+      </Note>
+      <Note Width="66.1743" FontSize="12" ID="8" Position="482.9,393.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="3">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,6</FormatRange>
+         </Formatting>
+         <String>powers</String>
+         <ConnectedNoteIDs>5, 9-10, 16-17</ConnectedNoteIDs>
+      </Note>
+      <Note Width="65.5518" FontSize="12" ID="9" Position="382.9,389.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>physical</String>
+         <ConnectedNoteIDs>1-2, 7-8, 12-13</ConnectedNoteIDs>
+      </Note>
+      <Note Width="55.7129" FontSize="12" ID="10" Position="579.8,385.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>mental</String>
+         <ConnectedNoteIDs>8, 14-15, 18-19</ConnectedNoteIDs>
+      </Note>
+      <Note Width="58.374" FontSize="12" ID="11" Position="582.9,222.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>electric</String>
+         <ConnectedNoteIDs>5</ConnectedNoteIDs>
+      </Note>
+      <Note Width="95.9595" FontSize="12" ID="12" Position="160.2,428.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>super speed</String>
+         <ConnectedNoteIDs>9</ConnectedNoteIDs>
+      </Note>
+      <Note Width="97.7417" FontSize="12" ID="13" Position="269.6,448.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>regeneration</String>
+         <ConnectedNoteIDs>9</ConnectedNoteIDs>
+      </Note>
+      <Note Width="132.629" FontSize="12" ID="14" Position="661.0,422.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>hyper intelligence</String>
+         <ConnectedNoteIDs>10</ConnectedNoteIDs>
+      </Note>
+      <Note Width="82.5439" FontSize="12" ID="15" Position="667.3,292.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>telekinesis</String>
+         <ConnectedNoteIDs>10</ConnectedNoteIDs>
+      </Note>
+      <Note Width="37.8296" FontSize="12" ID="16" Position="553.2,468.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>tech</String>
+         <ConnectedNoteIDs>8, 20, 22-23</ConnectedNoteIDs>
+      </Note>
+      <Note Width="50.3418" FontSize="12" ID="17" Position="438.4,464.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>magic</String>
+         <ConnectedNoteIDs>8, 21, 24-25</ConnectedNoteIDs>
+      </Note>
+      <Note Width="64.6606" FontSize="12" ID="18" Position="754.0,383.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>illusions</String>
+         <ConnectedNoteIDs>10</ConnectedNoteIDs>
+      </Note>
+      <Note Width="61.0718" FontSize="12" ID="19" Position="753.2,328.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>psychic</String>
+         <ConnectedNoteIDs>10</ConnectedNoteIDs>
+      </Note>
+      <Note Width="57.5073" FontSize="12" ID="20" Position="673.5,514.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>bionics</String>
+         <ConnectedNoteIDs>16</ConnectedNoteIDs>
+      </Note>
+      <Note Width="90.5884" FontSize="12" ID="21" Position="268.8,555.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>summoning</String>
+         <ConnectedNoteIDs>17</ConnectedNoteIDs>
+      </Note>
+      <Note Width="98.6328" FontSize="12" ID="22" Position="648.5,558.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>powered suit</String>
+         <ConnectedNoteIDs>16</ConnectedNoteIDs>
+      </Note>
+      <Note Width="63.7451" FontSize="12" ID="23" Position="577.4,578.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>robotics</String>
+         <ConnectedNoteIDs>16</ConnectedNoteIDs>
+      </Note>
+      <Note Width="58.3984" FontSize="12" ID="24" Position="415.7,598.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>objects</String>
+         <ConnectedNoteIDs>17</ConnectedNoteIDs>
+      </Note>
+      <Note Width="48.5596" FontSize="12" ID="25" Position="338.4,601.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>spells</String>
+         <ConnectedNoteIDs>17</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <BackgroundShapes/>
+   <NoteStyles>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Blue Bubble" ID="1D37316F-E11B-4CE0-88A5-EAA0C5F30565" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.485893 0.568933 0.756207</BorderColor>
+         <FillColor>0.844068 0.869596 0.923064</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Yellow Bubble" ID="3781FA36-B88A-4F11-9C18-CF8AF8E00E68" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.769436 0.762219 0.390143</BorderColor>
+         <FillColor>0.912963 0.894118 0.644541</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Green Bubble" ID="3E171E2D-08B3-4641-8C5D-AC7E144A9CF2" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.399100 0.583322 0.354864</BorderColor>
+         <FillColor>0.808835 0.872419 0.801343</FillColor>
+      </Style>
+      <Style AffectFontStyle="Yes" AffectAlignment="Yes" Name="Title Text" ID="B98E39BD-ED0F-4571-8637-B668FF1E333A" AffectTextColor="No" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>12.0</FontSize>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Red Text" ID="F43A06C4-CB01-4E73-8950-E5EEC43E261B" AffectTextColor="Yes" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <TextColor>1.0 0.0 0.0</TextColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Pink Bubble" ID="A39526A7-D5A9-40F4-826C-4A99250DD112" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.690303 0.407263 0.550912</BorderColor>
+         <FillColor>0.898329 0.817472 0.865339</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Brown Bubble" ID="C075241D-D7E2-48E2-B9D4-9461D9DC3BD0" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.269490 0.164034 0.186694</BorderColor>
+         <FillColor>0.934157 0.888319 0.785290</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>1.0 0.988006 0.945006</BackgroundColor>
+      <DefaultFont>Helvetica</DefaultFont>
+      <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+   </UISettings>
+   <PrintSettings VerticalPagination="Auto" HorizontalPagination="Clip" Orientation="Portrait" RightMargin="12.000000" BottomMargin="12.000000" HorizontallyCentered="Yes" ScaleFactor="1.000000" PagesAcross="1" PaperType="na-letter" PagesDown="1" TopMargin="12.000000" Collates="Yes" PaperSize="-1.000000,-1.000000" LeftMargin="12.000000" VerticallyCentered="Yes"/>
+</ScappleDocument>
