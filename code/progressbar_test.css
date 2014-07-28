@@ -1,0 +1,33 @@
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  margin: 2px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  background-color: #dfeef0;
+}
+
+a:active {
+  color: white;
+}
+
+
+/* METER */
+meter {
+  width: 150px;
+  height: 15px;
+}
+
+meter::-webkit-meter-bar {
+  background: none; /* Required to get rid of the default background property */
+  background-color: #eee;
+  box-shadow: 0 5px 10px -5px #b5b5b5 inset;
+}

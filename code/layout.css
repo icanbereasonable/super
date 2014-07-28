@@ -1,0 +1,237 @@
+/* MAIN ELEMENTS */
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#000000;
+}
+
+ul {
+	list-style-type: none;
+
+}
+
+ul li {
+	margin: 2px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	background-color: #dfeef0;
+}
+
+a:active {
+	color: white;
+}
+
+/* WRAPPERS */
+
+#wrapper {
+	margin: 0 auto;
+	width: 1000px;
+	height: 800px;
+	background: blue;
+}
+
+#leftwrapper {
+	width: 198px;
+	height: 769px;
+	position: relative;
+	top: 0px;
+	left: -400px;
+	margin: 0 auto;
+	background: red;
+	border: 1px solid black;
+}
+
+#rightwrapper {
+	width: 800px;
+	height: 769px;
+	position: relative;
+	top: -771px;
+	left: 99px;
+	margin: 0 auto;
+	background: #fae3f4;
+	border: 1px solid black;
+}
+
+
+/* MENU AND MENU POPUPS */
+
+#menu {
+	width: 198px;
+	height: 90px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	background: #f9fae3;
+	border-bottom: 1px solid black;
+}
+
+#logo {
+	margin: 0 auto;
+	border-right: 1px solid black;
+}
+
+#popupMenuLinks {
+	width: 90px;
+	height: 90px;
+	margin: 0 auto;
+	position: relative;
+	top: -88px;
+	left: 30px;
+}
+
+#popupFade {
+	display: none;
+	position: fixed;
+	top: 0%;
+	left: 0%;
+	width: 100%;
+	height: 100%;
+	background-color: #000;
+	z-index: 1001;
+	-moz-opacity: 0.7;
+	opacity: .70;
+	filter: alpha(opacity=70);
+}
+
+#popupS {
+	 display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300px;
+    height: 200px;
+    margin-left: -150px;
+    margin-top: -100px;                 
+    padding: 10px;
+    border: 2px solid #FFF;
+    background: #CCC;
+    z-index:1002;
+    overflow:visible;
+}
+
+#popupL {
+	 display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300px;
+    height: 200px;
+    margin-left: -150px;
+    margin-top: -100px;                 
+    padding: 10px;
+    border: 2px solid #FFF;
+    background: #CCC;
+    z-index:1002;
+    overflow:visible;
+}
+
+#popupH {
+	 display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300px;
+    height: 200px;
+    margin-left: -150px;
+    margin-top: -100px;                 
+    padding: 10px;
+    border: 2px solid #FFF;
+    background: #CCC;
+    z-index:1002;
+    overflow:visible;
+}
+
+#popupA {
+	 display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300px;
+    height: 200px;
+    margin-left: -150px;
+    margin-top: -100px;                 
+    padding: 10px;
+    border: 2px solid #FFF;
+    background: #CCC;
+    z-index:1002;
+    overflow:visible;
+}
+
+#popupC {
+	 display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300px;
+    height: 200px;
+    margin-left: -150px;
+    margin-top: -100px;                 
+    padding: 10px;
+    border: 2px solid #FFF;
+    background: #CCC;
+    z-index:1002;
+    overflow:visible;
+}
+/* STATS AND PROGRESS BARS */
+
+#stats {
+	width: 198px;
+	height: 678px;
+	position: relative;
+	top: -12px;
+	left: 0px;
+	background: #e7e3fa;
+	border-bottom: 1px solid black;
+}
+#abilQuad {
+	width: 200px;
+	height: 40px;
+	padding: 0px;
+	margin: 0px auto;
+	font-size: 11px;
+}
+#abilQuad li {
+	float: left;
+	display: inline;
+	left: 0px;
+	width:25%;
+	margin: 0px auto;
+}
+
+/* METER */
+meter {
+  width: 150px;
+  height: 15px;
+}
+
+meter::-webkit-meter-bar {
+  background: none; /* Required to get rid of the default background property */
+  background-color: #eee;
+  box-shadow: 0 5px 10px -5px #b5b5b5 inset;
+}
+
+/* MAIN GAME AREA */
+
+#game {
+
+}
+
+/* FOOTER AND EXTRANEOUS */
+
+#footer {
+	width: 1000px;
+	height:24px;
+	position: relative;
+	top: -771px;
+	left: 0px;
+	background: #d8f0de;
+	padding-top: 5px;
+	text-align: center;
+}
